@@ -1,0 +1,5 @@
+.venv/
+setup.cfg
+pyproject.toml
+.mypy_cache/
+.idea/
